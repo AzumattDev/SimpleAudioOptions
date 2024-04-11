@@ -1,9 +1,9 @@
 {
   "name": "SimpleAudioOptions",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/AzumattDev/SimpleAudioOptions",
   "description": "The primary function of this plugin is to provide the ability to modify the speaker mode, DSP Buffer Size, and Sample Rate settings of Unity's AudioSettings.",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2105"
+    "denikson-BepInExPack_Valheim-5.4.2202"
   ]
 }
